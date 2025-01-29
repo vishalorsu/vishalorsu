@@ -10,4 +10,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vishalorsu/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="vishalorsu"  width="40px" /></a>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="vishalorsu" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/vishalorsu?trk=profile-badge">Vishal O.</a></div>
+              
 </p>
