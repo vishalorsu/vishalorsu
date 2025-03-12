@@ -37,30 +37,65 @@
 ```mermaid
 timeline
     title Professional Journey
-    2023 : Senior Data Engineer at XYZ Corp
-         : Led ETL Pipeline Development
-    2022 : Data Analyst at ABC Analytics
-         : Implemented Predictive Models
-    2021 : ML Engineering Intern
-         : Developed Computer Vision Solutions
-    2020 : Graduate Research Assistant
-         : Data Analysis & Visualization
+    2024 : Azure Data Engineer at Inova Health System
+         : Healthcare Data Solutions & Analytics
+    2023 : AWS Data Engineer at Dominion Energy
+         : Energy Data Pipelines & Analytics
+    2021 : GCP Data Engineer at Oriental Insurance
+         : Insurance Data Processing & Analytics
+    2020 : Data Engineer at Whirlpool Corporation
+         : Manufacturing & Supply Chain Data Systems
 ```
 </div>
 
-### 🚀 Senior Data Engineer
-**Company XYZ, Washington DC Metro Area**
-- Architected and implemented **end-to-end data pipelines** using AWS services and Apache Airflow
-- Led the development of real-time analytics platform with Kafka, Spark, and Elasticsearch
-- Optimized data processing workflows resulting in 40% reduction in ETL processing time
-- Mentored junior team members on data engineering best practices and cloud technologies
+### 🚀 Azure Data Engineer
+**Inova Health System | Virginia, USA | May 2024 - Present**
+- Design and implement data architectures using **Azure Data Lake, Azure SQL Database, and Azure Synapse Analytics** for healthcare data storage and analytics
+- Develop automated data pipelines with **Azure Data Factory** for streamlined ETL of healthcare data across systems
+- Implement CI/CD pipelines using **Azure DevOps** for continuous deployment and testing in a regulated healthcare environment
+- Write and optimize complex **SQL queries** for clinical, operational, and financial reporting
+- Create data transformation scripts using **Python** to integrate data from various healthcare systems
+- Develop real-time data streaming solutions with **Apache Kafka and Azure Databricks** for immediate healthcare analytics
+- Implement **Docker containers and Kubernetes** to streamline deployment of healthcare applications
+- Utilize **Hadoop ecosystem tools** (Hive, Pig) for processing large healthcare datasets
+- Deploy **Snowflake** as a cloud data warehousing solution for high-performance healthcare data analytics
 
-### 📊 Data Analyst
-**Company ABC, Virginia**
-- Developed interactive dashboards using Power BI and Tableau, increasing stakeholder insights by 35%
-- Implemented machine learning models for customer segmentation and churn prediction
-- Automated reporting processes saving 15+ hours of manual work weekly
-- Collaborated with cross-functional teams for product analytics and business intelligence
+### ☁️ AWS Data Engineer
+**Dominion Energy | Richmond, Virginia | Mar 2023 - April 2024**
+- Designed scalable data architecture using **AWS services** (Redshift, S3, Glue, Kinesis) for energy data pipelines
+- Implemented monitoring solutions with **AWS CloudWatch** and utilized **AWS Lambda** for event-driven processing
+- Developed **Python scripts** for processing large-scale energy data and wrote complex **SQL queries** for analytics
+- Automated infrastructure deployments using **Terraform** for serverless architectures
+- Created **SQOOP scripts** for migrating data from legacy systems to modern big data environments
+- Utilized **Elasticsearch and Kibana** for real-time indexing and visualization of energy data
+- Maintained and enhanced **Spark** processing jobs for energy data analytics
+- Developed real-time data streaming solutions using **Amazon Kinesis, Apache Kafka, and Apache Airflow**
+- Created interactive dashboards with **Tableau and Power BI** for monitoring energy usage and system performance
+- Worked with NoSQL databases (**MongoDB, Cassandra**) for handling large-scale, unstructured energy data
+
+### 🔍 GCP Data Engineer
+**Oriental Insurance Company Limited | Mumbai, India | Oct 2021 - Nov 2022**
+- Designed data pipelines using **Google Cloud Dataflow and Cloud Composer** to process large volumes of insurance data
+- Integrated **Google Cloud Pub/Sub** for real-time data streaming and event-driven architecture
+- Built machine learning models with **AI Platform** to enhance fraud detection and risk management
+- Optimized ETL processes with **Cloud Data Fusion and BigQuery** for better business intelligence
+- Automated infrastructure provisioning with **Terraform and Cloud Deployment Manager**
+- Developed real-time processing pipelines using **Apache Kafka and Apache Beam** for insurance data
+- Utilized **Google Cloud Dataproc** with **Hadoop and Spark** for detailed claims analysis
+- Created interactive dashboards using **Looker, Power BI, and Google Data Studio** for business stakeholders
+
+### 🏭 Data Engineer
+**Whirlpool Corporation | Bangalore, India | June 2020 - Sep 2021**
+- Implemented scalable data pipelines using **Apache Kafka, Apache Spark, and Azure Data Factory** for manufacturing data
+- Built ETL workflows with **Azure Synapse Analytics and Azure Data Lake** for supply chain management
+- Developed real-time data streaming solutions with **Apache Flink** for production line data analysis
+- Managed data warehouses with **Azure SQL Database** for business reports and inventory management
+- Created CI/CD pipelines using **Jenkins and GitHub Actions** for automated deployment
+- Optimized SQL queries for **Azure SQL and Google BigQuery** for business reporting
+- Developed data solutions using **Python and Pandas** for manufacturing and sales analytics
+- Integrated **Power BI and Tableau** for data visualization of product development metrics
+- Deployed **Docker containers and Kubernetes** for microservices-based data processing applications
+- Utilized **Elasticsearch and Kibana** for monitoring manufacturing systems and improving maintenance workflows
 
 </details>
 
