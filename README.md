@@ -193,8 +193,8 @@ timeline
 <br>
 
 <div align="center">
-  <a href="https://github.com/vishalorsu/IBM-Data-Science-Capstone-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishalorsu&repo=data-pipeline-project&theme=react" />
+  <a href="https://github.com/vishalorsu/Data-Analysis-of-Real-Estate-Sales-from-2001-to-2020-in-Connecticut">
+    <img src="https://github.com/vishalorsu/Data-Analysis-of-Real-Estate-Sales-from-2001-to-2020-in-Connecticut/blob/main/IMG-20250318-WA0007.jpg?raw=true" />
   </a>
   <a href="https://github.com/vishalorsu/Geospatial-Analysis-of-Credit-Card-Fraudulent-Transactions">
     <img src="https://github.com/vishalorsu/Geospatial-Analysis-of-Credit-Card-Fraudulent-Transactions/blob/main/IMG-20250318-WA0004.jpg?raw=true" />
