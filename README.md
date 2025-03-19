@@ -193,10 +193,10 @@ timeline
 <br>
 
 <div align="center">
-  <a href="https://github.com/vishalorsu/data-pipeline-project">
+  <a href="https://github.com/vishalorsu/IBM-Data-Science-Capstone-Project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishalorsu&repo=data-pipeline-project&theme=react" />
   </a>
-  <a href="https://github.com/vishalorsu/ml-customer-analytics">
+  <a href="https://github.com/vishalorsu/Geospatial-Analysis-of-Credit-Card-Fraudulent-Transactions">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishalorsu&repo=ml-customer-analytics&theme=react" />
   </a>
 </div>
