@@ -24,10 +24,6 @@
 
 ## 💼 Professional Journey
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/vishalorsu/portfolio/main/assets/timeline.svg" alt="Career Timeline" width="90%"/>
-</div>
-
 ### Current Role: 🚀 Azure Data Engineer at Inova Health System
 Transforming healthcare data into actionable insights with modern cloud architectures
 
