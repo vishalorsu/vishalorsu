@@ -197,7 +197,7 @@ timeline
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishalorsu&repo=data-pipeline-project&theme=react" />
   </a>
   <a href="https://github.com/vishalorsu/Geospatial-Analysis-of-Credit-Card-Fraudulent-Transactions">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishalorsu&repo=ml-customer-analytics&theme=react" />
+    <img src="https://github.com/vishalorsu/Geospatial-Analysis-of-Credit-Card-Fraudulent-Transactions/blob/main/IMG-20250318-WA0004.jpg?raw=true" />
   </a>
 </div>
 
